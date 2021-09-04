@@ -1,0 +1,6 @@
+[submodule "dm_soccer2gym"]
+	path = dm_soccer2gym
+	url = https://github.com/Pavan-Samtani/dm_soccer2gym
+[submodule "soccer-spinningup"]
+	path = soccer-spinningup
+	url = https://github.com/Pavan-Samtani/soccer-spinningup
